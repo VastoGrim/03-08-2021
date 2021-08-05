@@ -23,10 +23,10 @@ cada cara tiene un disparo o función distinta
 Equipo Armas:
 
 habra 4 armas
-debe haber una activa a la vez
-cada arma tendra diferentes balas
+solo estara activa el arma que apunte al cursos
+cada arma tendra su propia bala
 que asu vez, tendran diferentes atributos.
-el arma se activara cuando se presione la Q
+el arma se activara cuando se presione clic izquierdo
 
 Cesar Gonzalo Tello Carrizales
 Gustavo Andre Sanchez del Bosque
