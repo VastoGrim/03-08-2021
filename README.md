@@ -23,7 +23,7 @@ cada cara tiene un disparo o función distinta
 Equipo Armas:
 
 habra 4 armas
-solo estara activa el arma que apunte al cursos
+solo estara activa el arma que apunte al cursor
 cada arma tendra su propia bala
 que asu vez, tendran diferentes atributos.
 el arma se activara cuando se presione clic izquierdo
