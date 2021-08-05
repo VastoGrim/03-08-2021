@@ -26,11 +26,7 @@ habra 4 armas
 debe haber una activa a la vez
 cada arma tendra diferentes balas
 que asu vez, tendran diferentes atributos.
-tentativamente se activara cada una con los botones;
-1: arma1
-2: arma2
-3: arma3
-4: arma4
+el arma se activara cuando se presione la Q
 
 Cesar Gonzalo Tello Carrizales
 Gustavo Andre Sanchez del Bosque
