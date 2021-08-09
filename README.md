@@ -39,6 +39,13 @@ Pablo Rubio Torres
 
 
 Paso1: ubicar la cara "Principal del cubo"
-paso2: hacer una caja invisible o hitbox y adjuntarle un scrit
+paso2: hacer una caja invisible o hitbox y adjuntarle un script
 paso3: crear "Keys" en cada cara, en total deberian ser 4, por ejemplo, key1,key2,key3,key4, y una vez esten estos hitboxes, deben darles un tag con dichos nombres distintivos
 paso4: en el el script del hitbox principal se hara un codigo donde tendremos que hacer una condicional que este checando cada frame que llave con que tag, esta haciendo colicion y mandar a activar con trues y falses cada arma.
+
+-----------------09/08/2021---------
+Equipo Rotación
+Leonardo
+Danny
+
+Se creo un child en Player que contiene como childs todos los cañones, la idea es que se rote el child con todos los cañones, asignando con un collider el cañon principal dandole su total funcionalidad. 
