@@ -31,3 +31,14 @@ el arma se activara cuando se presione clic izquierdo
 Cesar Gonzalo Tello Carrizales
 Gustavo Andre Sanchez del Bosque
 Pablo Rubio Torres
+
+Procedimiento para armas:
+equipo armas: Cesar Gonzalo Tello Carrizales
+Gustavo Andre Sanchez del Bosque
+Pablo Rubio Torres
+
+
+Paso1: ubicar la cara "Principal del cubo"
+paso2: hacer una caja invisible o hitbox y adjuntarle un scrit
+paso3: crear "Keys" en cada cara, en total deberian ser 4, por ejemplo, key1,key2,key3,key4, y una vez esten estos hitboxes, deben darles un tag con dichos nombres distintivos
+paso4: en el el script del hitbox principal se hara un codigo donde tendremos que hacer una condicional que este checando cada frame que llave con que tag, esta haciendo colicion y mandar a activar con trues y falses cada arma.
