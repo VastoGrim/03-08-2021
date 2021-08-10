@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bullet
+  - arma1
+  - arma2
+  - arma3
+  - arma4
   layers:
   - Default
   - TransparentFX
